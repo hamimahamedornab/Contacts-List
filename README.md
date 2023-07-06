@@ -1,16 +1,26 @@
 # contact_list
 
-A new Flutter project.
+●     Create a screen to display a list of contacts.
+
+●     The contact list should be populated with at least three contacts, including their names, email addresses, and phone numbers.
+
+●     Each contact in the list should be represented as a ListTile widget.
+
+●     Implement a tap gesture on each ListTile so that when a contact is tapped, a bottom sheet appears.
+
+●     The bottom sheet should display the contact's details, including their name, email address, and phone number.
+
+●     Ensure that the contact details are dynamically fetched from the tapped contact.
+
+●     The bottom sheet should be dismissed when the user interacts with it.
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+created a screen to display a list of contacts.
 
-A few resources to get you started if this is your first Flutter project:
+## ScreenShots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![2](https://github.com/hamimahamedornab/Contacts-List/assets/75578573/d0bc396a-5226-4935-a331-120488bc66cb)
+![1](https://github.com/hamimahamedornab/Contacts-List/assets/75578573/b880e5cb-831a-4617-9292-15b7c6fa9e49)
